@@ -11122,7 +11122,8 @@ html[dir='rtl'] .layout-panel-row {
 /*# sourceMappingURL=style.css.map */
 
 #logo {
-	background-image: url('/images/Visitor_Amulet.png');
+	background: url('/images/Visitor_Amulet.png') center center no-repeat;
+	background-size: contain;
 	height: 300px;
 	width: 300px;
 	z-index: 999;
