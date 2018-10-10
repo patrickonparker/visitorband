@@ -11128,3 +11128,11 @@ html[dir='rtl'] .layout-panel-row {
 	width: 1920px;
 	z-index: 999;
 }
+
+#logo2 {
+	background: url('/images/LP_Visitor_Flat.png') center center no-repeat;
+	background-size: contain;
+	height: 1080px;
+	width: 1920px;
+	z-index: 999;
+}
