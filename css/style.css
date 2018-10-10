@@ -11122,9 +11122,9 @@ html[dir='rtl'] .layout-panel-row {
 /*# sourceMappingURL=style.css.map */
 
 #logo {
-	background: url('/images/Visitor_Amulet.png') center center no-repeat;
+	background: url('/images/LP_Logo_Glow.png') center center no-repeat;
 	background-size: contain;
-	height: 300px;
-	width: 300px;
+	height: 1080px;
+	width: 1920px;
 	z-index: 999;
 }
