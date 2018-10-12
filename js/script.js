@@ -1870,9 +1870,9 @@
 		/**
 		 * Main screen
 		 */
-		$('.main-screen').on('click', function () {
-			$('.main-screen').addClass('hidden');
-		});
+//		$('.main-screen').on('click', function () {
+//			$('.main-screen').addClass('hidden');
+//		});
 
 		/**
 		 * Jp Audio player
